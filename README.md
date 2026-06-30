@@ -12,7 +12,7 @@ This repository focuses on **project management**, **business analysis**, and **
 
 # 🎯 Project Goal
 
-Design a centralized platform that helps a jewelry business:
+Develop a centralized platform that helps a jewelry business:
 
 - Manage inventory
 - Track customer orders
@@ -25,13 +25,11 @@ Design a centralized platform that helps a jewelry business:
 
 # 👩🏾‍💼 My Role
 
-As the Project Manager, I am responsible for:
-
 - Defining business requirements
 - Planning project milestones
 - Writing project documentation
 - Managing risks
-- Creating user stories
+- Creating user stories (USER COSTUMER JOURNEY)
 - Planning quality assurance
 - Coordinating communication between stakeholders
 
